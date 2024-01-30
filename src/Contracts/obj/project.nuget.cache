@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wq3EdrpAWmXmNHUlFVe3gNeW5c0GYr+HNL7tMDE1wI3+9NSVC5J/Ek/IuSmA3mp4MC9J0MQcKKF4T5KP2Bq4ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khaloqov\\Desktop\\Carsties-main\\src\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khaloqov\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Khaloqov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Khaloqov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
